@@ -3,7 +3,7 @@
     Hospedagem: github.com
 ]]
 
-local GEAR_ID = 16641274 -- <--- COLOQUE O ID DO GEAR AQUI
+local GEAR_ID = 10468797 -- <--- COLOQUE O ID DO GEAR AQUI
 local players = game:GetService("Players")
 local insertService = game:GetService("InsertService")
 
